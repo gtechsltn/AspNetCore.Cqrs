@@ -5,6 +5,8 @@
 + https://betterprogramming.pub/domain-driven-design-a-walkthrough-of-building-an-aggregate-c84113aa9975
 + https://github.com/gtechsltn/AspNetCore.CleanArchitecture
 + https://github.com/gtechsltn/AspNetCore.Cqrs
++ Sample eCommerce application using Domain-Driven Design
++ https://github.com/gtechsltn/DDDMart
 
 **ASP.NET Core** API setup using Command Query Responsibility Segregation (CQRS). 
 The solution follows the 'Different Read/Write Models, Single Database' approach described here: https://medium.com/better-programming/choosing-a-cqrs-architecture-that-works-for-you-02619555b0a0
