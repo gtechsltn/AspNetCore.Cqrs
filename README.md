@@ -1,6 +1,10 @@
-
-
 # AspNetCore.Cqrs
++ https://levelup.gitconnected.com/cqrs-in-asp-net-with-separate-read-write-models-using-mediatr-b2fa32be9e65
++ https://betterprogramming.pub/choosing-a-cqrs-architecture-that-works-for-you-02619555b0a0
++ https://betterprogramming.pub/domain-driven-design-domain-events-and-integration-events-in-net-5a2a58884aaa
++ https://betterprogramming.pub/domain-driven-design-a-walkthrough-of-building-an-aggregate-c84113aa9975
++ https://github.com/gtechsltn/AspNetCore.CleanArchitecture
++ https://github.com/gtechsltn/AspNetCore.Cqrs
 
 **ASP.NET Core** API setup using Command Query Responsibility Segregation (CQRS). 
 The solution follows the 'Different Read/Write Models, Single Database' approach described here: https://medium.com/better-programming/choosing-a-cqrs-architecture-that-works-for-you-02619555b0a0
