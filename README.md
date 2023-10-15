@@ -1,8 +1,10 @@
 # ASP.NET Core CQRS
++ https://levelup.gitconnected.com/ultimate-net-project-setup-with-clean-architecture-and-domain-driven-design-3bf9e8173420
 + https://levelup.gitconnected.com/cqrs-in-asp-net-with-separate-read-write-models-using-mediatr-b2fa32be9e65
 + https://betterprogramming.pub/choosing-a-cqrs-architecture-that-works-for-you-02619555b0a0
 + https://betterprogramming.pub/domain-driven-design-domain-events-and-integration-events-in-net-5a2a58884aaa
 + https://betterprogramming.pub/domain-driven-design-a-walkthrough-of-building-an-aggregate-c84113aa9975
++ https://www.quora.com/What-are-the-advantages-of-Entity-Framework
 
 ## Clean Architecture
 + https://github.com/gtechsltn/AspNetCore.CleanArchitecture
